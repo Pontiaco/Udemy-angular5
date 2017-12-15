@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "s2c18"
+    "name": "s9-initial"
   },
   "apps": [
     {
@@ -19,12 +19,8 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "../node_modules/bootstrap/dist/css/bootstrap.min.css",
         "styles.css"
-        
       ],
-
-
       "scripts": [],
       "environmentSource": "environments/environment.ts",
       "environments": {
